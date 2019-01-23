@@ -14,6 +14,7 @@ let state = {
   let mainDiv = null;
   
   
+  
   window.onload = function(){
     mainDiv = document.getElementById("main");
     signup = document.getElementById("signup");
